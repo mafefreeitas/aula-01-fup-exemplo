@@ -6,4 +6,4 @@ a = int(a)
 b = input("Digite outro numero")
 b = int(b)
 
-a + b
+print(a + b)
